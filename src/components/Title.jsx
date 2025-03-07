@@ -9,7 +9,7 @@ import { BsArrowDownSquareFill } from "react-icons/bs";
 import { useUserContext } from './contextAPI';
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
-import thala from '../assets/img/IMG_1455.jpeg' ;
+
 
 export default function Title() {
     const { scrolled } = useUserContext();
